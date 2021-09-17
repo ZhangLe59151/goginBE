@@ -1,3 +1,10 @@
 id,label,text
 0,Ask for ideas,Agree. What's your point?
 1,Explain ideas,"There's no point, I just think it's a good idea for a T-shirt"
+2,Ask action,Hang on
+3,Ask action,Move your finger
+4,Reject answer,If you have to ask, maybe you shouldn't be here.
+5,Explain ideas,I think this is the place.
+6,Ask to do,Fill these out.
+7,Explain actions,We'll be right back.
+8,Polite,Take your time.
